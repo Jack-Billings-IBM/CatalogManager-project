@@ -1,0 +1,27 @@
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=disabled
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=warning
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.2
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.source=1.3
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=warning
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.compiler.compliance=1.4
+# 
+#Mon Apr 12 12:19:12 EDT 2021
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
